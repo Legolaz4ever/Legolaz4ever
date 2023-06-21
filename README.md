@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Legolaz4ever
 - 👀 I’m interested in Computer Science, fpv drones, paraguilding, and airsoft.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Front-end and iOS developments.
 - 📚 Studying at Nazarbayev University in Kazakhstan.
 
 <!---
